@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on as a Machine & Deep learning Researcher.
+- 🌱 I’m currently learning Advance computer vision methods and MLops.
+- 👯 I’m looking to collaborate on cross domain application of deep learing.
+- 🤔 I’m looking for help with MLops.
+- 💬 Ask me about Deep learning and computer vision.
+- ⚡ Fun fact: I read mangas a lot, and watch anime a lot xD.
+
+
 <!--
 **mattoo-fahad/mattoo-fahad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
